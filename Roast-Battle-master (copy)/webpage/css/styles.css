@@ -1,0 +1,81 @@
+
+/* head portion*/
+
+
+.table{
+  height: 400px;
+  width: 200px;
+  
+  margin-top: 50px;
+
+}
+.box1{
+  height:100%;
+  width: 225px;
+  border:1px dotted white;
+  margin-top:75px;
+  align-content: center;
+  align-items:center;
+  background-color: black;
+  
+}
+
+.head{
+  height: 200px;
+}
+
+.roastHead {height:200px; width: 300px;
+  background: url(../img/swordandshield.png) no-repeat local 50% 0%;
+  border: 1px solid black;
+
+}
+
+.roastHeadTwo{height:200px; ;
+  background: url(../img/header.png) no-repeat local 50% 0%;
+  border: 1px solid black;
+
+}
+
+body {
+  /* background-image:
+    linear-gradient(
+      to right, 
+      #fffdc2,
+      #fffdc2 15%,
+      #d7f0a2 15%,
+      #d7f0a2 85%,
+      #fffdc2 85%
+    ); */
+
+background:
+  url(../css/img/greycurves.jpg) no-repeat center center fixed;
+
+}
+
+.announcment {
+  width: inherit;
+  border: 1px solid white;
+
+}
+
+.sideBar{
+width: 25%;
+
+}
+
+.frontDisplay{height:300px;
+  width:75%;
+  border: 1px solid white;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+  box-shadow: 5px 5px 15px 5px #000000;
+  background: rgba(0,0,0,0.4) none no-repeat local 50% 50%;
+  
+
+}
+.tabledad{
+  width: 15%;
+}
+.tablemom{
+  width:55%;
+}
+/* end head portion*/
